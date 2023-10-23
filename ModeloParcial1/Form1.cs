@@ -71,7 +71,7 @@ namespace ModeloParcial1
             float opcionales = 0; 
             float recargo = 0;
             float descuento = 0;
-            int equipo = 0;
+            
 
 
             // Le paso el precio de cada dispositivo a la var resultado 
